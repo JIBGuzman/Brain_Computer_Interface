@@ -30,3 +30,14 @@ This project collects raw brain activity data (e.g., EEG signals) while users pe
 3. **Data Logger:** Software module to record brain signals and event timestamps.
 4. **Output Handler:** Optional module to trigger computer actions or log user events.
 
+## Hardware Requirements
+
+- **EEG Headset:** Consumer-grade or research-grade EEG device.
+
+## Software Requirements
+
+- TBD
+
+## Contact
+
+- TBD
